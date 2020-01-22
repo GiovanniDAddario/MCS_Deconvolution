@@ -4,7 +4,7 @@ Created on Sat Jan  4 12:01:27 2020
 
 Script for MCS deconvolution of quasar data.
 
-@author: Giovanni D'Addario & Diganta Bandopdhyay
+@author: Giovanni D'Addario & Diganta Bandopadhyay
 """
 
 import numpy as np
